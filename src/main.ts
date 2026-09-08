@@ -1,6 +1,5 @@
 //import '../tomasTS/01-tipos-bas';
 
-
 import './style.css'
 //import '../tomasTS/02-obj-interfaz-arre';
 import '../tomasTS/03-funciones';
