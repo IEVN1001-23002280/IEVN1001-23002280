@@ -40,3 +40,4 @@ function mostrarMascota(mascota:Mascotas,x:number):void{
 }
 
 mostrarMascota(nuevaMascota,3)
+//

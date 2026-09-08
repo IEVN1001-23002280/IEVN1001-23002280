@@ -25,4 +25,5 @@ console.log(mascotas)
 let tem:(number|string)[]=[]
 tem.push(11)
 tem.push('once')
-console.log(tem)
+console.log(tem) 
+//
