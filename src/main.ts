@@ -1,6 +1,10 @@
-import '../tomasTS/01-tipos-bas';
+//import '../tomasTS/01-tipos-bas';
+
 
 import './style.css'
+//import '../tomasTS/02-obj-interfaz-arre';
+import '../tomasTS/03-funciones';
+
 import heroImg from './assets/hero.png'
 import typescriptLogo from './assets/typescript.svg'
 import viteLogo from './assets/vite.svg'

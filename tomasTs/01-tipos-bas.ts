@@ -12,3 +12,8 @@ let activo: boolean;
 let suma: number = num1 + num3;
 
 console.log("El resultado de la suma es:", suma);
+
+let matricula : number | string
+matricula=23002280
+matricula="ABCDE"
+console.log(matricula)
