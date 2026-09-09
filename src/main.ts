@@ -2,7 +2,17 @@
 
 import './style.css'
 //import '../tomasTS/02-obj-interfaz-arre';
-import '../tomasTS/03-funciones';
+
+//import '../tomasTS/03-funciones';
+
+//import '../tomasTS/04-desestructuracion-obj-arre';
+
+//import '../tomasTS/05-desestruracion-funciones';
+
+//import '../tomasTS/06-exportar';
+
+import '../tomasTS/07-clases';
+
 
 import heroImg from './assets/hero.png'
 import typescriptLogo from './assets/typescript.svg'
